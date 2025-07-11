@@ -1,0 +1,6 @@
+Change Component Designator: OldDesignator=  NewDesignator=C5
+Change Component Designator: OldDesignator=  NewDesignator=C7
+Change Component Designator: OldDesignator=  NewDesignator=C14
+Change Component Designator: OldDesignator=  NewDesignator=R14
+Added Pin To Net: NetName=CHIP_PU Pin=SW1-2
+Change Net Color : Old Net Color=Navy New Net Color=Default

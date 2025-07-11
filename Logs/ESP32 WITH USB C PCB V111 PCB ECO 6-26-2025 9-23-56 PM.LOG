@@ -1,0 +1,4 @@
+Change Component Designator: OldDesignator=    NewDesignator=R17
+Change Net Color : Old Net Color=Navy New Net Color=Default
+Added Differential Pair: Name=FTDI_USB
+Added Member To Class: ClassName=DIFF90 Member=FTDI_USB

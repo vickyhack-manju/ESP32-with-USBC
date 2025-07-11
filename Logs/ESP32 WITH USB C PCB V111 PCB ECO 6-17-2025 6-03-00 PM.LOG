@@ -1,0 +1,10 @@
+Removed Pin From Net: NetName=GND Pin=SW1-4
+Removed Pin From Net: NetName=GND Pin=SW2-4
+Added Pin To Net: NetName=CHIP_PU Pin=SW1-2
+Added Pin To Net: NetName=GND Pin=SW1-2
+Added Pin To Net: NetName=GND Pin=SW1-3
+Added Pin To Net: NetName=CHIP_PU Pin=SW1-4
+Added Pin To Net: NetName=GND Pin=SW2-1
+Added Pin To Net: NetName=BTN GPIO0 Pin=SW2-2
+Added Pin To Net: NetName=GND Pin=SW2-3
+Added Pin To Net: NetName=BTN GPIO0 Pin=SW2-4
